@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://github.com/Gabriel8154/Gabriel8154/blob/main/GaBO..png" height="175px"/></a>
+<a href="#"><img width="100%" height="60%" src="https://github.com/Gabriel8154/Gabriel8154/blob/main/GaBO..png" height="175px"/></a>
 ## Hi there 👋
 
 <!--
